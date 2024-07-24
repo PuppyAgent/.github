@@ -1,6 +1,4 @@
 <div align="center">
-<img src="./puppyagent_homelogo.png" alt="Image" width="600">
+<img src="./puppyagent_homelogo.png" alt="Image" width="700">
 </div>
 
-
-PuppyAgent aims to bring AI agents into human's collabrations
